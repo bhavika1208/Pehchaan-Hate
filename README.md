@@ -4,10 +4,7 @@ Pehchaan hate provides you the platform to check the amount of Hate Content Pres
 
 To run the Project you need to follow following steps:-
 
-First set the anaconda virtual Environment
-
-Activate the environment
-
-Set FLASK APP
-
-Run Flask 
+1. First set the anaconda virtual Environment
+2. Activate the environment
+3. Set FLASK APP
+4. Run Flask 
